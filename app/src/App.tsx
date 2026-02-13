@@ -6,7 +6,6 @@ import LoveLetter from './sections/LoveLetter';
 import LoveTimeline from './sections/LoveTimeline';
 import WhyILoveYou from './sections/WhyILoveYou';
 import Flashcards from './sections/Flashcards';
-import Photobooth from './sections/Photobooth';
 import CountdownSection from './sections/CountdownSection';
 import GamifiedProposal from './sections/GamifiedProposal';
 import AnimatedProposal from './sections/AnimatedProposal';
@@ -60,7 +59,6 @@ function App() {
             <LoveTimeline />
             <WhyILoveYou />
             <Flashcards />
-            <Photobooth />
             <CountdownSection />
             <GamifiedProposal />
             <AnimatedProposal />
