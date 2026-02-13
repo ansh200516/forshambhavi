@@ -74,7 +74,7 @@ export default function LoveLetter() {
     <section className="section-container bg-gradient-to-b from-rose-50 to-white relative overflow-hidden">
       {/* Section Title */}
       <div className="text-center mb-12">
-        <p className="text-gray-500 text-sm uppercase tracking-wider mb-2">Scroll to unwrap your gift</p>
+        <p className="text-gray-500 text-sm uppercase tracking-wider mb-2">Click to unwrap your gift</p>
         <Heart className="w-6 h-6 text-rose-400 mx-auto animate-bounce" fill="currentColor" />
       </div>
 
